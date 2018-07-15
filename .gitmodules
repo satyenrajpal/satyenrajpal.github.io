@@ -1,0 +1,4 @@
+[submodule "public/satyenrajpal.github.io"]
+	path = public/satyenrajpal.github.io
+	url = https://github.com/satyenrajpal/satyenrajpal.github.io
+	branch = master
